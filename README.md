@@ -39,9 +39,5 @@ You will be provided with a CSV file containing daily stock price data for compa
    - Provide detailed setup instructions in this README file.
    - Include comments in the code explaining any complex logic.
 
-## Setup Instructions
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/ungaaaabungaaa/Next_Stock_Price_Analyzer
 
